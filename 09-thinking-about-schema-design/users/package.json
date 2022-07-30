@@ -1,0 +1,30 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-moradzade/mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali-moradzade/mongodb/issues"
+  },
+  "homepage": "https://github.com/ali-moradzade/mongodb#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mocha": "^10.0.0",
+    "mongoose": "^6.5.0"
+  },
+  "devDependencies": {
+    "nyc": "^15.1.0"
+  }
+}
