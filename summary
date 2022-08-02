@@ -145,18 +145,18 @@
 
 =======================================================================================
 14-mongodb-with-node-and-express:
-    01-app-overview.mp4                                                      : 00:02:41
-    02-designing-api-routes.mp4                                              : 00:06:01
-    03-project-setup.mp4                                                     : 00:06:48
-    04-http-request-methods.mp4                                              : 00:03:54
-    05-the-basics-of-express.mp4                                             : 00:04:40
-    06-express-boilerplate.mp4                                               : 00:04:30
-    07-handling-requests-with-express.mp4                                    : 00:08:12
-    08-testing-express-apps-with-mocha.mp4                                   : 00:07:21
-    09-running-mocha.mp4                                                     : 00:04:33
-    10-project-structure.mp4                                                 : 00:02:57
-    11-refactoring-for-controllers-and-models.mp4                            : 00:09:39
-    12-the-driver-model.mp4                                                  : 00:06:51
+    01-app-overview.mp4                                                      : 00:02:41 + 2022-08-02
+    02-designing-api-routes.mp4                                              : 00:06:01 + 2022-08-02
+    03-project-setup.mp4                                                     : 00:06:48 + 2022-08-02
+    04-http-request-methods.mp4                                              : 00:03:54 + 2022-08-02
+    05-the-basics-of-express.mp4                                             : 00:04:40 + 2022-08-02
+    06-express-boilerplate.mp4                                               : 00:04:30 + 2022-08-02
+    07-handling-requests-with-express.mp4                                    : 00:08:12 + 2022-08-02
+    08-testing-express-apps-with-mocha.mp4                                   : 00:07:21 + 2022-08-02
+    09-running-mocha.mp4                                                     : 00:04:33 + 2022-08-02
+    10-project-structure.mp4                                                 : 00:02:57 + 2022-08-02
+    11-refactoring-for-controllers-and-models.mp4                            : 00:09:39 + 2022-08-02
+    12-the-driver-model.mp4                                                  : 00:06:51 + 2022-08-02
     13-the-create-drivers-route.mp4                                          : 00:03:47
     14-the-bodyparser-middleware.mp4                                         : 00:07:03
     15-testing-driver-creation.mp4                                           : 00:07:15
