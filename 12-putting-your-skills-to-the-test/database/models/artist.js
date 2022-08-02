@@ -9,7 +9,7 @@ const ArtistSchema = new Schema({
     image: String,
     genre: String,
     website: String,
-    networth: Number,
+    netWorth: Number,
     labelName: String,
     retired: Boolean,
     albums: [
@@ -17,5 +17,6 @@ const ArtistSchema = new Schema({
     ],
 });
 
-module.exports = mongoose.model('artist', ArtistSchema);
+ArtistSchema.index({name: 'text'});
 
+module.exports = mongoose.model('artist', ArtistSchema);
