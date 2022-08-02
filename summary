@@ -128,20 +128,20 @@
 
 =======================================================================================
 13-hard-mode-engage:
-    01-minimum-and-maximum-values-in-a-collection.mp4                        : 00:05:37
-    02-solution-to-min-and-max-queries.mp4                                   : 00:14:58
-    03-challenge-mode-search-query.mp4                                       : 00:07:35
-    04-sorting-limiting-and-skipping-together.mp4                            : 00:13:05
-    05-danger-big-challenge-ahead.mp4                                        : 00:04:30
-    06-filtering-by-single-properties.mp4                                    : 00:07:22
-    07-filtering-with-multiple-props.mp4                                     : 00:03:30
-    08-handling-text-search.mp4                                              : 00:04:50
-    09-indexes-and-text-search.mp4                                           : 00:10:06
-    10-batch-updates.mp4                                                     : 00:05:28
-    11-the-hidden-multi-setting.mp4                                          : 00:07:06
-    12-seeding-many-records.mp4                                              : 00:06:31
-    13-counting-the-result-set.mp4                                           : 00:04:50
-    total                                                                    : 01:35:28
+    01-minimum-and-maximum-values-in-a-collection.mp4                        : 00:05:37 + 2022-08-02
+    02-solution-to-min-and-max-queries.mp4                                   : 00:14:58 + 2022-08-02
+    03-challenge-mode-search-query.mp4                                       : 00:07:35 + 2022-08-02
+    04-sorting-limiting-and-skipping-together.mp4                            : 00:13:05 + 2022-08-02
+    05-danger-big-challenge-ahead.mp4                                        : 00:04:30 + 2022-08-02
+    06-filtering-by-single-properties.mp4                                    : 00:07:22 + 2022-08-02
+    07-filtering-with-multiple-props.mp4                                     : 00:03:30 + 2022-08-02
+    08-handling-text-search.mp4                                              : 00:04:50 + 2022-08-02
+    09-indexes-and-text-search.mp4                                           : 00:10:06 + 2022-08-02
+    10-batch-updates.mp4                                                     : 00:05:28 + 2022-08-02
+    11-the-hidden-multi-setting.mp4                                          : 00:07:06 + 2022-08-02
+    12-seeding-many-records.mp4                                              : 00:06:31 + 2022-08-02
+    13-counting-the-result-set.mp4                                           : 00:04:50 + 2022-08-02
+    total                                                                    : 01:35:28 +
 
 =======================================================================================
 14-mongodb-with-node-and-express:
