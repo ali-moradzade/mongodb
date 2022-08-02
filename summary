@@ -111,20 +111,20 @@
 
 =======================================================================================
 12-putting-your-skills-to-the-test:
-    01-project-setup.mp4                                                     : 00:03:15
-    02-project-overview.mp4                                                  : 00:05:46
-    03-first-step-artist-and-album-models.mp4                                : 00:04:29
-    04-the-album-schema.mp4                                                  : 00:07:17
-    05-the-artist-model.mp4                                                  : 00:09:11
-    06-finding-particular-records.mp4                                        : 00:05:31
-    07-findone-vs-findbyid.mp4                                               : 00:06:29
-    08-the-createartist-operation.mp4                                        : 00:02:48
-    09-solution-to-creating-artists.mp4                                      : 00:03:12
-    10-deleting-singular-records.mp4                                         : 00:02:21
-    11-solution-to-removing.mp4                                              : 00:04:20
-    12-editing-records.mp4                                                   : 00:02:56
-    13-how-to-edit-single-artists.mp4                                        : 00:03:14
-    total                                                                    : 01:00:49
+    01-project-setup.mp4                                                     : 00:03:15 + 2022-08-02
+    02-project-overview.mp4                                                  : 00:05:46 + 2022-08-02
+    03-first-step-artist-and-album-models.mp4                                : 00:04:29 + 2022-08-02
+    04-the-album-schema.mp4                                                  : 00:07:17 + 2022-08-02
+    05-the-artist-model.mp4                                                  : 00:09:11 + 2022-08-02
+    06-finding-particular-records.mp4                                        : 00:05:31 + 2022-08-02
+    07-findone-vs-findbyid.mp4                                               : 00:06:29 + 2022-08-02
+    08-the-createartist-operation.mp4                                        : 00:02:48 + 2022-08-02
+    09-solution-to-creating-artists.mp4                                      : 00:03:12 + 2022-08-02
+    10-deleting-singular-records.mp4                                         : 00:02:21 + 2022-08-02
+    11-solution-to-removing.mp4                                              : 00:04:20 + 2022-08-02
+    12-editing-records.mp4                                                   : 00:02:56 + 2022-08-02
+    13-how-to-edit-single-artists.mp4                                        : 00:03:14 + 2022-08-02
+    total                                                                    : 01:00:49 +
 
 =======================================================================================
 13-hard-mode-engage:
