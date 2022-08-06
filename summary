@@ -157,28 +157,28 @@
     10-project-structure.mp4                                                 : 00:02:57 + 2022-08-02
     11-refactoring-for-controllers-and-models.mp4                            : 00:09:39 + 2022-08-02
     12-the-driver-model.mp4                                                  : 00:06:51 + 2022-08-02
-    13-the-create-drivers-route.mp4                                          : 00:03:47
-    14-the-bodyparser-middleware.mp4                                         : 00:07:03
-    15-testing-driver-creation.mp4                                           : 00:07:15
-    16-more-on-testing-driver-creation.mp4                                   : 00:09:07
-    17-additional-mongoose-setup.mp4                                         : 00:05:27
-    18-driver-implementation.mp4                                             : 00:04:33
-    19-testing-endpoints-with-postman.mp4                                    : 00:09:14
-    20-dev-vs-test-environments.mp4                                          : 00:03:40
-    21-separate-test-databases.mp4                                           : 00:10:33
-    22-middlewares-in-express.mp4                                            : 00:15:03
-    23-handling-editing-of-drivers.mp4                                       : 00:09:09
-    24-testing-driver-updates.mp4                                            : 00:07:44
-    25-handling-deletion-of-drivers.mp4                                      : 00:03:05
-    26-testing-driver-deletion.mp4                                           : 00:05:27
-    27-geography-with-mongodb.mp4                                            : 00:05:32
-    28-the-geojson-schema.mp4                                                : 00:05:41
-    29-geonear-queries.mp4                                                   : 00:10:12
-    30-testing-a-geonear-query.mp4                                           : 00:07:01
-    31-one-big-gotcha.mp4                                                    : 00:04:49
-    32-another-big-gotcha.mp4                                                : 00:02:56
-    33-testing-geoqueries.mp4                                                : 00:03:39
-    total                                                                    : 03:29:04
+    13-the-create-drivers-route.mp4                                          : 00:03:47 + 2022-08-02
+    14-the-bodyparser-middleware.mp4                                         : 00:07:03 + 2022-08-02
+    15-testing-driver-creation.mp4                                           : 00:07:15 + 2022-08-02
+    16-more-on-testing-driver-creation.mp4                                   : 00:09:07 + 2022-08-02
+    17-additional-mongoose-setup.mp4                                         : 00:05:27 + 2022-08-02
+    18-driver-implementation.mp4                                             : 00:04:33 + 2022-08-02
+    19-testing-endpoints-with-postman.mp4                                    : 00:09:14 + 2022-08-06
+    20-dev-vs-test-environments.mp4                                          : 00:03:40 + 2022-08-06
+    21-separate-test-databases.mp4                                           : 00:10:33 + 2022-08-06
+    22-middlewares-in-express.mp4                                            : 00:15:03 + 2022-08-06
+    23-handling-editing-of-drivers.mp4                                       : 00:09:09 + 2022-08-06
+    24-testing-driver-updates.mp4                                            : 00:07:44 + 2022-08-06
+    25-handling-deletion-of-drivers.mp4                                      : 00:03:05 + 2022-08-06
+    26-testing-driver-deletion.mp4                                           : 00:05:27 + 2022-08-06
+    27-geography-with-mongodb.mp4                                            : 00:05:32 + 2022-08-06
+    28-the-geojson-schema.mp4                                                : 00:05:41 + 2022-08-06
+    29-geonear-queries.mp4                                                   : 00:10:12 + 2022-08-06
+    30-testing-a-geonear-query.mp4                                           : 00:07:01 + 2022-08-06
+    31-one-big-gotcha.mp4                                                    : 00:04:49 + 2022-08-06
+    32-another-big-gotcha.mp4                                                : 00:02:56 + 2022-08-06
+    33-testing-geoqueries.mp4                                                : 00:03:39 + 2022-08-06
+    total                                                                    : 03:29:04 +
 
 =======================================================================================
 15-extras:
